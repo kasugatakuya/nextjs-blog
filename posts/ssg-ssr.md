@@ -1,5 +1,5 @@
 ---
-title: 'React早くかけるようになりたい'
+title: 'Reactは仮想DOMを使うよ'
 date: '2020-01-02'
 ---
 
